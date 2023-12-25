@@ -21,4 +21,10 @@ Your users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+## What I Learn
+
+- CSS image srcset/media to alternate optimal image
+- use pusedo element to create button with iocn
+- CSS grid layout
+
+
